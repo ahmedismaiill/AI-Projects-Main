@@ -1,4 +1,4 @@
-# 👁️ Eye Diseases Classification from Retinal Images
+# 👁️ Eye Diseases Classification With Streamlit App
 
 A deep learning project that classifies retinal fundus images into four categories of eye conditions using a **Custom CNN** and **EfficientNetB7 (transfer learning)**.
 
@@ -87,3 +87,12 @@ Cataract : 0.97
   - ReduceLROnPlateau (for CNN)
 
 ---
+
+<img width="1865" height="1062" alt="Screenshot 2025-08-04 063728" src="https://github.com/user-attachments/assets/4921feb7-23db-455b-8d3e-ac37225237ab" />
+
+
+<img width="1864" height="976" alt="Screenshot 2025-08-04 063740" src="https://github.com/user-attachments/assets/506b7953-6cda-42b5-b4e3-c8270929df72" />
+
+
+<img width="1852" height="1038" alt="Screenshot 2025-08-04 063752" src="https://github.com/user-attachments/assets/3067bd49-0f2a-4a68-a7f1-21aa9f882e83" />
+
