@@ -41,7 +41,6 @@ A 4-block CNN model built from scratch with ReLU activations, MaxPooling, and a 
 **Performance:**
 
 Test Accuracy : 89%
-F1-Score (Macro) : 0.89
 
 Class-wise F1 Scores:
 
@@ -60,18 +59,17 @@ Uses ImageNet-pretrained EfficientNetB7 as the base model with added custom top 
 
 **Performance:**
 
-Test Accuracy : 89%
-F1-Score (Macro) : 0.89
+Test Accuracy : 95%
 
 Class-wise F1 Scores:
 
-Glaucoma : 0.83
+Glaucoma : 0.92
 
-Normal : 0.83
+Normal : 0.94
 
-Diabetic Retinopathy : 0.95
+Diabetic Retinopathy : 0.97
 
-Cataract : 0.94
+Cataract : 0.97
 
 
 ---
