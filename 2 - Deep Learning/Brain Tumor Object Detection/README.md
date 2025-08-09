@@ -67,3 +67,8 @@ The **Streamlit web app** allows users to:
 - Sidebar with detailed tumor information & medical context.
 
 ---
+![Uploading Screenshot 2025-08-10 014343.png…]()
+
+![Uploading Screenshot 2025-08-10 014351.png…]()
+
+![Uploading Screenshot 2025-08-10 014405.png…]()
