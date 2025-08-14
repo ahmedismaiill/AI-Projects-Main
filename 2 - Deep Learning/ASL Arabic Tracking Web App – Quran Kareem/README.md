@@ -5,6 +5,22 @@ The model detects Arabic Sign Language gestures with **99% test accuracy**, enab
 
 ---
 
+# 📖 Project Introduction
+
+This project combines visual art and modern technology to serve the deaf community and enhance their ability to learn and understand the Quran. It is specifically designed to recognize Arabic Sign Language letters using object detection techniques.
+
+# ✅ Key Features
+
+Arabic Sign Language Alphabet Recognition
+
+Three Visual Styles for Education & Quranic Contexts
+
+Full Arabic Language Support (isolated, initial, medial, final forms)
+
+Real-time YOLO-based detection
+
+Streamlit Web App Interface
+
 ## 📌 Project Links
 
 - **Kaggle Notebook (Training & Evaluation)**: [https://www.kaggle.com/code/ahmedismaiil/arabic-sign-language-od-yolov8-acc-99](https://www.kaggle.com/code/ahmedismaiil/arabic-sign-language-od-yolov8-acc-99)  
