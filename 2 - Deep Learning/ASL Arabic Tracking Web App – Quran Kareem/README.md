@@ -49,14 +49,6 @@ Arabic Sign Language Object Detection/
 ├── <various images & gifs> # Media assets, visual results
 
 
----
-
-## 🔗 Useful Links
-- **Kaggle Notebook:** [Arabic Sign Language OD YOLOv8 ACC 99](https://www.kaggle.com/code/ahmedismaiil/arabic-sign-language-od-yolov8-acc-99)  
-- **Trained Model:** [ASL Quran Kareem Tracker Model](https://www.kaggle.com/models/ahmedismaiil/asl-quran-kareem-tracker)
-
----
-
 ## 🚀 Setup Instructions
 
 ### 1️⃣ Clone this repository
