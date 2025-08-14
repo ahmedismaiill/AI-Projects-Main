@@ -35,11 +35,17 @@ The model detects Arabic Sign Language gestures with **99% test accuracy**, enab
 ## 📂 Project Structure
 
 Arabic Sign Language Object Detection/
+
 ├── runs/ # YOLOv8 training/inference outputs
+
 ├── app.py # Streamlit app to run the tracker
+
 ├── arabic-sign-language-od-yolov8-acc-99.ipynb # Kaggle training notebook
+
 ├── best.pt # YOLOv8 trained model (test accuracy 99%)
+
 ├── requirements.txt # Dependencies for the project
+
 ├── <various images & gifs> # Media assets, visual results
 
 
