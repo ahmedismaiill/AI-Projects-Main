@@ -65,6 +65,9 @@ Arabic Sign Language Object Detection/
 ├── <various images & gifs> # Media assets, visual results
 
 
+https://github.com/user-attachments/assets/a897c56b-6f84-4ebc-bdb1-cbafd02c56e1
+
+
 ## 🚀 Setup Instructions
 
 ### 1️⃣ Clone this repository
@@ -96,4 +99,6 @@ print("best.pt exists:", os.path.exists(os.path.join(path, "best.pt")))
 
 ▶️ Run the Web App
 streamlit run app.py
+
+
 
